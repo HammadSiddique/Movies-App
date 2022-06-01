@@ -1,3 +1,1 @@
-const h = () => {
-
-};
+import './index.css';
